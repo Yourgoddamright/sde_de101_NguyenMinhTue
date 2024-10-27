@@ -1,0 +1,9 @@
+Question :Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? 
+Hint: Think backward from what the business may need. Share your assignment with me by creating a repo (like this one if you haven't already) and writing down your notes/code under the folder for lesson 1.
+
+What are the deadlines and the immediate need of the bussiness.
+I want to know the data needed for analyzing, where can I get the required data, how often does I have to update the data. 
+  - Find about the data need, what is the difficulty that each teams are facing.
+  - Meeting with stakeholder to find out about the problems that the business is facing
+Establish Data Governance and Security Protocol
+The scale needed for the system in present and near future.
